@@ -6,12 +6,25 @@
 
 <br clear="both">
 
+<h1 align="center">Hey there 👋 I am Arjun</h1>
+
+###
+
+<br clear="both">
+
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="26" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="26" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="26" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="26" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="26" alt="telegram logo"  />
+  <a href="https://www.linkedin.com/in/r-arjun-krishna-a7b59b195/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="26" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/r_arjun_krishna?igsh=YzljYTk1ODg3Zg==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="26" alt="instagram logo"  />
+  </a>
+  <a href="arjunkrishnar00@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="26" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/rarjunkrishna" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="26" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
@@ -19,12 +32,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Arjun-kris.Arjun-kris&"  />
 </div>
-
-###
-
-<br clear="both">
-
-<h1 align="center">Hey there 👋 I am Arjun</h1>
 
 ###
 
